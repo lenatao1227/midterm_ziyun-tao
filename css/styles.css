@@ -112,6 +112,7 @@ img{
   font-family:serif;
   color:grey;
   margin-bottom:20px;
+  line-height: 10px;
 }
 
 .map{
@@ -120,7 +121,7 @@ img{
   height: 800px;
   width:100%;
   margin-top: -50px;
-  margin-left: 200px;
+  margin-left: 300px;
   display:block;
 
 }
