@@ -46,7 +46,8 @@ img{
     border: 0;
     font-size: 11px ;
     letter-spacing: 4px;
-    opacity:0.8;
+    height: 90px;
+
 }
 
 .navbar li a, .navbar .navbar-brand {
@@ -58,20 +59,25 @@ img{
     color: #fff;
 }
 
-
 .navbar-default .navbar-toggle {
     border-color: transparent;
 }
 
+.bodypart1{
+  padding-top: 85px;
+}
+
+.bodypart2{
+  padding-top: 92px;
+}
 
 .text-center h3{
   position:relative;;
-  margin:50px 0 50px 0;
-  color:brown;
+  margin:30px 0 30px 0;
+  color:darkred;
   font-size:30px;
   font-family:serif;
   font-weight: bold;
-
 }
 
  span{
@@ -115,12 +121,39 @@ img{
 }
 
 .map{
-  background: url(chinamap.jpg) no-repeat ;
-  background-position: left center;
-  height: 800px;
-  width:100%;
+  background: url(chinamap.jpg) no-repeat;
+  background-position: left;
   margin-top: -50px;
-  margin-left: 200px;
+  margin-left: 300px;
   display:block;
+}
 
+.sidenav {
+      padding-top: 20px;
+      background-color: #f1f1f1;
+      height:100%;
+    }
+
+.row.content {
+  height: 1300px;
+}
+
+.links {
+  background: url(7.jpg) no-repeat;
+  background-position: left;
+  margin-top: -50px;
+  background-size: auto 100%;
+}
+
+.maintext{
+  padding:80px;
+}
+
+#texttitle{
+  color:#cc4400;
+  font-family: monospace;
+}
+
+iframe{
+  margin-bottom: 10px;
 }
