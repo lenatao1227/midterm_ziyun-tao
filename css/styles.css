@@ -42,12 +42,15 @@ img{
 
 .navbar {
     margin-bottom: 0;
-    background-color: black;
     border: 0;
     font-size: 11px ;
     letter-spacing: 4px;
     height: 90px;
+}
 
+.navbar-brand{
+  padding-left: 100px;
+  font-weight: bold;
 }
 
 .navbar li a, .navbar .navbar-brand {
@@ -64,7 +67,7 @@ img{
 }
 
 .bodypart1{
-  padding-top: 85px;
+  padding-top: 83px;
 }
 
 .bodypart2{
@@ -87,7 +90,7 @@ img{
 }
 
 .carousel-inner img {
-    width: 100%; /* Set width to 100% */
+    width: 80%; /* Set width to 100% */
     margin: auto;
     padding:0；
 }
@@ -99,6 +102,7 @@ img{
 @media (max-width: 600px) {
     .carousel-caption {
         display: none;
+
     }
 }
 
@@ -122,14 +126,15 @@ img{
 }
 
 .map{
-  background: url(chinamap.jpg) no-repeat;
-  background-position: left;
-  margin-top: -50px;
-  margin-left: 300px;
+  position: center;
   display:block;
+  height:800px;
+  padding-top: 20px;
+  padding-left: 320px;
 }
 
 .sidenav {
+     margin-top: -2px;
       padding-top: 20px;
       background-color: #f1f1f1;
       height:100%;
@@ -162,6 +167,7 @@ iframe{
 h5{
   font-family:serif;
   font-size:20px;
+  line-height: 35px;
 }
 
 h4{
@@ -169,4 +175,25 @@ h4{
   font-size: 22px;
   color:darkgrey;
   line-height: 30px;
+}
+.tone{
+  font-family:serif;
+  font-size:20px;
+  color:darkgrey;
+}
+
+.row.content1{
+  height: 4270px;
+}
+
+.row.content3{
+  height: 2420px;
+}
+
+.row.content4{
+  height: 4000px;
+}
+
+.row.content2{
+  height: 800px;
 }
