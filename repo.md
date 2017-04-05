@@ -1,0 +1,6 @@
+##Reflection
+I met problems when I try to design the assessment part.
+At first I regard the assessment way as a discussion forum and cannot think up any others ways. So I added an discussion platform for students to ask and answer questions during the learning process. But after talking to Jeanny, I found the discussion forum is just one way of self-assessment. I also talked with some of my classmates, then I realized that there a lot of ways to do the assessment like quiz, survey and reflection. Besides, the assessment part is very important for us to know how much the students comprehend the content.
+
+So I changed some of my design to emphasize on the assessment part. I design small quiz after each learning video. The students will get feedback after they finish the quiz and we also collect the information from these quiz. In the same time, we can partly know the quality of this learning video. If the students all get relative low grades, they may need more learning material or other ways to help them understand.
+I haven’t finished the quiz part, and I am still working on it. I really hope to put more efforts on the assessment part when I am doing the final project. Besides I would use other ways like pre-assessment and summative assessment.
